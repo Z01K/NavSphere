@@ -17,6 +17,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1758972403404",
+      "title": "画图相关",
+      "icon": "Image",
+      "description": "画图工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
