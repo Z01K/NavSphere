@@ -6,7 +6,16 @@
       "icon": "Music",
       "description": "音乐相关网址",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1758972058229_q2wclas7t",
+          "title": "GD音乐台 - GD Studio's Online Music Platform",
+          "href": "https://music.gdstudio.xyz/",
+          "description": "在线音乐",
+          "icon": "/assets/favicon_1758972042776.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
