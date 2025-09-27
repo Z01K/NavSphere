@@ -16,7 +16,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "55f7ab74-dab0-4083-b732-bae2d5dee682",
+          "title": "在线听歌",
+          "icon": "Music",
+          "description": "在线听歌",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1758972403404",
