@@ -34,7 +34,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "3b089936-d1fb-4ade-aa80-f18e5f17a518",
+          "title": "在线白板",
+          "icon": "Image",
+          "description": "在线白版",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
