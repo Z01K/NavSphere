@@ -24,16 +24,7 @@
       "icon": "Image",
       "description": "画图工具",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1758972454020_1uu532y0q",
-          "title": "Excalidraw Whiteboard",
-          "href": "https://excalidraw.com/",
-          "description": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
-          "icon": "/assets/favicon_1758972445938.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "3b089936-d1fb-4ade-aa80-f18e5f17a518",
@@ -41,7 +32,16 @@
           "icon": "Image",
           "description": "在线白版",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1758972454020_1uu532y0q",
+              "title": "Excalidraw Whiteboard",
+              "href": "https://excalidraw.com/",
+              "description": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
+              "icon": "/assets/favicon_1758972445938.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
